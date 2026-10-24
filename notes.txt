@@ -1,0 +1,2 @@
+1- git init -b main
+2- make changes

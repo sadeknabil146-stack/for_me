@@ -1,2 +1,7 @@
 1- git init -b main
+1.1- git remote add origin <link_to_repo>
 2- make changes
+3- .gitignore
+4- git add .
+5- git commit -m "asdasdasdasd"
+6- git push origin <branch_name>
